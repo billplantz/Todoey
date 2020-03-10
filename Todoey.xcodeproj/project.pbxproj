@@ -58,8 +58,6 @@
 		6B2200D22405E0EC0037C1F1 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
-				6B22E3FC23F5DC450092F068 /* AppDelegate.swift */,
-				6B22E3FE23F5DC450092F068 /* SceneDelegate.swift */,
 				6B22E40023F5DC450092F068 /* ToDoListViewController.swift */,
 			);
 			path = Controller;
@@ -84,6 +82,8 @@
 		6B22E3FB23F5DC450092F068 /* Todoey */ = {
 			isa = PBXGroup;
 			children = (
+				6B22E3FC23F5DC450092F068 /* AppDelegate.swift */,
+				6B22E3FE23F5DC450092F068 /* SceneDelegate.swift */,
 				6B2200CF2405E0BC0037C1F1 /* Model */,
 				6B2200D02405E0D10037C1F1 /* View */,
 				6B2200D22405E0EC0037C1F1 /* Controller */,
